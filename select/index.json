@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "稲妻",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T18:34:51.535801Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "稲妻",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_稲妻_サンボマスター.txt"
+    }
+  ]
+}
